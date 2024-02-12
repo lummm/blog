@@ -1,4 +1,3 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+I'm Liam Tengelis - I'm a software consultant at Ensemble Systems in Vancouver, BC.  We build bespoke software solutions for our clients - and increasingly we leverage AI to do so.
