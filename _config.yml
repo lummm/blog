@@ -17,6 +17,9 @@ twitter_username: LTengelis
 # Set this to true to get LaTeX math equation support
 use_math: true
 
+exclude:
+  - venv
+
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
 

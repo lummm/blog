@@ -1,3 +1,3 @@
 # About
 
-I'm a software consultant at Ensemble Systems in Vancouver, BC.  We build bespoke software solutions for our clients - and increasingly we leverage AI to do so.
+I'm Liam from [tengelisconsulting.com](https://tengelisconsulting.com).

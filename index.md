@@ -1,1 +1,1 @@
-## A pragmatic approach to applications of natural language processing
+> A pragmatic approach to applications of natural language processing
