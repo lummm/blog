@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-# Need to copy the MD to _posts, then copy the 'files' to assets, then adjust any image lins in the MD
-# to point to be prepended with /assets/.
 import dataclasses as dc
 import os
 import re
@@ -38,16 +36,6 @@ class FileRef:
             absdir=absdir,
             ext=ext,
         )
-
-
-
-IMG_TYPES = [
-    "png",
-]
-
-
-# IMG_REGEX = "![png](2023-02-11-linear-regression_files/2023-02-11-linear-regression_1_0.png)"
-IMG_REGEX = re.compile(f"^(.*)\.({'|'.join(IMG_TYPES)})\)$")
 
 
 def run(cmd: list[str]):

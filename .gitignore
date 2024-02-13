@@ -8,7 +8,7 @@ _site
 vendor
 notebooks/.ipynb_checkpoints
 
-notebook_output/
+_notebook_output/
 
 venv
 data
